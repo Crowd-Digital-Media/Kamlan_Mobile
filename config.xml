@@ -87,7 +87,7 @@
     <gap:platform name="ios" />
     <gap:platform name="android" />
 
-    <gap:plugin name="cordova-plugin-camera" spec="~4.1.0" />
+    <plugin name="cordova-plugin-camera" spec="~4.1.0" />
     <gap:plugin name="org.apache.cordova.media-capture" />
     <gap:plugin name="org.apache.cordova.console" />
     <gap:plugin name="org.apache.cordova.device" version="0.2.8"/>
@@ -102,7 +102,7 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <gap:plugin name="net.tunts.webintent" />
     <gap:plugin name="nl.x-services.plugins.launchmyapp">
-        <param name="URL_SCHEME" value="moodlemobile" />
+        <param name="URL_SCHEME" value="kamlanmobile" />
     </gap:plugin>
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5" />
