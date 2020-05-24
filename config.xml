@@ -99,9 +99,6 @@
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
     <plugin name="cordova-plugin-statusbar" spec="~2.4.3" />
     <plugin name="cordova-plugin-vibration" spec="~3.1.1" />
-    <plugin name="nl.x-services.plugins.launchmyapp" source="pgb">
-        <param name="URL_SCHEME" value="Kamlan_Mobile" />
-    </plugin>
     <plugin name="com.ionic.keyboard" spec="1.0.3" source="pgb" />
     <plugin name="de.appplant.cordova.plugin.local-notification" spec="0.8.1" source="pgb" />
     <plugin name="ch.ti8m.documenthandler" spec="0.2.1" source="pgb" />
